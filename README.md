@@ -1,9 +1,10 @@
 # SalesPerformanceDashBoard
 Interactive Power BI Sales Performance Dashboard providing insights into revenue, sales trends, regional performance,  and key business KPIs. Designed to support data-driven decision-making through dynamic visualizations, filtering, and actionable analytics.
+
 ## Powerbi Interface
 - <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/Sales%20Performance%20DashBoard.pbix"> Powerbi Interface </a>
-### Questions KPIs
 
+### Questions KPIs
 1. What is the total sales revenue?
 2. How does current sales performance compare to the previous period?
 3. What is the average sales?
@@ -12,6 +13,45 @@ Interactive Power BI Sales Performance Dashboard providing insights into revenue
 6. Who are the top customers by revenue?
 7. What is the average revenue?
 8. Which region generates the highest sales?
+
+### Process Followed to Develop the Dashboard
+   * Identified key business questions and performance metrics.
+   * Determined KPIs such as Total Sales, Total Customers, Regional Sales, and Sales Trend.
+   * Gathered sales data from relevant sources (Excel)
+   * Verified data completeness and accuracy.
+   * Removed duplicates and errors.
+   * Handled missing values.
+   * Standardized data formats and data types.
+   * Created relationships between tables where necessary.
+   * Designed a data model using fact and dimension tables.
+   * Established relationships to support accurate analysis.
+     
+ * Developed Calculated fields for KPIs such as:
+
+     * Total Sales
+     * Total Customer
+     * Average Sales
+
+ * Selected appropriate visuals including:
+
+     * KPI Cards
+     * Line Charts
+     * Stacked Column Charts
+     * TreeMap
+
+ *Added Interactivity*
+
+   * Implemented slicers and filters.
+   * Enabled drill-through and cross-filtering features.
+
+ *Optimize Dashboard Layout*
+
+   * Organized visuals for clarity and user experience.
+   * Applied consistent formatting and branding.
+
+### Outcome
+
+The dashboard provides a comprehensive view of sales performance, enabling stakeholders to monitor KPIs, identify trends, evaluate regional and product performance, and make data-driven business decisions.
 
 ## DashBoard Interaction
 - <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/SalesPerformanceDashBoard.jpeg"> View DashBoard </a>
