@@ -13,3 +13,8 @@ Interactive Power BI Sales Performance Dashboard providing insights into revenue
 7. What is the average revenue?
 8. Which region generates the highest sales?
 
+## DashBoard Interaction
+- <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/SalesPerformanceDashBoard.jpeg"> View DashBoard </a>
+
+## DashBoard
+<img width="1316" height="719" alt="SalesPerformanceDashBoard" src="https://github.com/user-attachments/assets/2ad79e71-9669-4669-b7c2-2a0652e69692" />
