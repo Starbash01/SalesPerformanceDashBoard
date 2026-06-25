@@ -57,7 +57,8 @@ The dashboard provides a comprehensive view of sales performance, enabling stake
 - <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/SalesPerformanceDashBoard.jpeg"> View DashBoard </a>
 
 ## DashBoard
-[Sales Performance DashBoard PDF.pdf](https://github.com/user-attachments/files/29340387/Sales.Performance.DashBoard.PDF.pdf)
+
+<img width="1482" height="850" alt="SalesPerformanceDashBoard" src="https://github.com/user-attachments/assets/968019e6-6f69-44f4-bc87-c02ffc05138d" />
 
 
 ### Key Insights
