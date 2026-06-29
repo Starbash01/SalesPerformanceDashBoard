@@ -2,7 +2,9 @@
 Interactive Power BI Sales Performance Dashboard providing insights into revenue, sales trends, regional performance,  and key business KPIs. Designed to support data-driven decision-making through dynamic visualizations, filtering, and actionable analytics.
 
 ## Powerbi Interface
-- <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/Sales%20Performance%20DashBoard.pbix"> Feel free to download and interact with the Powerbi Interface file and adapt it to your customer Dataset </a>
+- <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/Sales%20Performance%20DashBoard.pbix"> Feel free to download, explore and interact with this project. You're welcome to use it as a reference, adapt it to your own dataset, and experiment with different analyses or visualizations. I hope it provides useful insights and serves as a helpful resource for your own learning and projects.
+
+If you find this project valuable, consider giving it a ⭐ and sharing your feedback or suggestions. Your support and contributions are always appreciated! </a>
 
 ### Questions KPIs
 1. What is the total sales revenue?
