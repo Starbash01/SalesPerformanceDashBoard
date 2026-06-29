@@ -54,7 +54,7 @@ Interactive Power BI Sales Performance Dashboard providing insights into revenue
 The dashboard provides a comprehensive view of sales performance, enabling stakeholders to monitor KPIs, identify trends, evaluate regional and product performance, and make data-driven business decisions.
 
 ## DashBoard Interaction
-- <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/SalesPerformanceDashBoard.jpeg"> View DashBoard </a>
+- <a href="https://github.com/Starbash01/SalesPerformanceDashBoard/blob/main/Sales%20Performance%20DashBoard%20PDF.pdf"> View DashBoard </a>
 
 ## DashBoard
 
